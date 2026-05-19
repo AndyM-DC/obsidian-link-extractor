@@ -1,0 +1,10 @@
+{
+  "id": "link-extractor",
+  "name": "Link Extractor",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Scan the current note for all external links and copy them as a list.",
+  "author": "Andrew Mutavdzija",
+  "authorUrl": "https://github.com/AndyM-DC",
+  "isDesktopOnly": false
+}
